@@ -1,2 +1,3 @@
 # datamining
-220411100134
+nama : abdul hijjah akbarul Hidayatulloh
+nim  : 220411100134
